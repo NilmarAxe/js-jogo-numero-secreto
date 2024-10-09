@@ -1,2 +1,2 @@
 # js-jogo-numero-secreto
- Jogo do Número Secreto
+Secret number game.
